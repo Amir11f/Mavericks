@@ -1,9 +1,9 @@
 'use client'
 
-import store from './app/store'
+import store from './store'
 import { Provider } from 'react-redux'
 
-export const storeProvider = (childern)=>{
+export const StoreProvider = ({childern})=>{
 
     return <Provider store={store}>{childern}</Provider>
 }

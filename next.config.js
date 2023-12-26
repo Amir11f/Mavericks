@@ -1,12 +1,4 @@
-import UnoCSS from 'unocss/vite'
-
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-    plugins: [
-        UnoCSS(),
-      ]
-}
+const nextConfig = {}
 
 module.exports = nextConfig
-
-

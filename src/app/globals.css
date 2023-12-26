@@ -4,6 +4,33 @@
 
 
 
+
 body {
   background-color:  #FFFFFF ;
+}
+
+#homeComponentHeaderPng {
+  background-image: url('../../public/rafiki.png');
+  width: 545px;
+  height: 545px;
+}
+
+.Rectangle59491{
+  width: 308px;
+height: 71px;
+top: 496px;
+left: 730px;
+border-radius: 8px;
+border: 2px solid rgba(53, 116, 240, 1);
+ background-color: #FFFFFF;
+}
+
+.Rectangle59492{
+  width: 308px;
+height: 71px;
+top: 496px;
+left: 730px;
+border-radius: 8px;
+background: rgba(53, 116, 240, 1);
+
 }

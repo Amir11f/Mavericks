@@ -81,8 +81,6 @@ top: 318px;
   height: 48px;
   top: 650px;
     left: 92px;
-    display: inline;
-
 }
 
 #homeSampleBorder{
@@ -92,7 +90,24 @@ top: 318px;
   background-repeat: no-repeat;
   width: 1160px;
   margin-top: 1.5rem;
-  margin-left: 9rem;
+  margin-left: 4rem;
   border: 4px;  
   display: inline;
-  }
+}
+
+.homeDetailBox{
+  width: 314px;
+height: 610px;
+top: 726px;
+left: 217px;
+border-radius: 10px;
+background: linear-gradient(14.42deg, #00B3FF 1.08%, #0038FF 62.54%);
+
+}
+
+.homeDetailBoxPicture{
+  background-image: url('../../public/Rectangle59558.png');
+  width: 312px;
+  height: 255px;
+  
+}

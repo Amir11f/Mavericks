@@ -9,9 +9,9 @@ export default function HomePage() {
         <>
             <div>
                 <Header/>
-                {/* <div className='absolute top-[660px]'> */}
+                <div className='absolute top-[660px]'>
                    <Samples/>
-                {/* </div> */}
+                </div>
             </div>
         </>
         

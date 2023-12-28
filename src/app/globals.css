@@ -109,5 +109,16 @@ background: linear-gradient(14.42deg, #00B3FF 1.08%, #0038FF 62.54%);
   background-image: url('../../public/Rectangle59558.png');
   width: 312px;
   height: 255px;
+
   
+}
+
+.homeDetailBoxTitleText{
+  font-family: IRANSansX;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
 }

@@ -1,17 +1,16 @@
 // import Image from 'next/image'
 import Header from '@/components/Home/header'
 import Samples from '@/components/Home/samples'
-
+import Services from '@/components/Home/services'
 
 export default function HomePage() {
 
     return(
         <>
-            <div>
+            <div className='flex flex-col'>
                 <Header/>
-                <div className='absolute top-[660px]'>
-                   <Samples/>
-                </div>
+                <Samples/>
+                <Services/>
             </div>
         </>
         

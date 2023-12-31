@@ -17,10 +17,10 @@ export default function Services(){
                 </p>
                 <div className="h-[1060px]">
                     <div className="flex flex-col" id="purpleRectangle">
-                        <div className="rectangleTitle">
+                        <div className="rectangleTitle mt-[56px]">
                             پزشکی و شرکتی
                         </div>
-                        <div className="flex flex-col self-end gap-[18px]">
+                        <div className="flex flex-col self-end gap-[18px] mt-[50px]">
                             <div className="flex flex-row justify-end">
                                 <p className="rectangleOptions">شخصی سازی سطح 3</p>
                                 <div className="verifyPicture"></div>
@@ -46,8 +46,15 @@ export default function Services(){
                                 <div className="verifyPicture"></div>
                             </div>
                         </div>
-                        <div></div>
-                        <div></div>
+                        <div className="rectangleBotton flex flex-row item-center justify-center self-center mt-[45px]">
+                            <p className="rectanglePriceText mt-[12px]">میلیون تومان </p>
+                            <p className="rectanglePriceText ml-[8px] mt-[12px]"> 9 </p>
+                        </div>
+                        <div className=" mt-[7rem] rectangleBottonShape flex justify-center justify-self-center self-center">
+                                <p className="rectangleBottonText">
+                                    سفارش ومشاوره   
+                                </p>
+                        </div>
                     </div>
                 </div>
             </div>

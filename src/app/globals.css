@@ -296,5 +296,45 @@ color: #494B57;
   letter-spacing: 0em;
   text-align: left;
   color: #FFFFFF;
+}
+
+.rectangleBotton{
+  width: 241px;
+  height: 65px;
+  border-radius: 80px;
+  border: 1px;
+  background-color: #0085FF42;
+  border:1px solid #FFFFFF;
+}
+
+.rectanglePriceText{
+  color: #FFFFFF;
+  font-family: Kalameh(FaNum);
+font-size: 24px;
+font-weight: 400;
+line-height: 41px;
+letter-spacing: 0em;
+text-align: center;
+}
+
+.rectangleBottonShape{
+  width: 172px;
+  height: 59px;
+  border-radius: 8px;
+  border: 1px solid white;
+  /* border-image-source: linear-gradient(97.33deg, #FFFFFF -1.06%, rgba(255, 255, 255, 0) 100%); */
+
+}
+
+.rectangleBottonText{
+  font-family: Kalameh;
+font-size: 18px;
+font-weight: 600;
+line-height: 31px;
+letter-spacing: 0em;
+text-align: center;
+color: #FFFFFF;
+margin-top: 1rem;
+
 
 }

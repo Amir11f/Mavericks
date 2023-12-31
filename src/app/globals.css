@@ -337,9 +337,73 @@ color: #FFFFFF;
 margin-top: 1rem;
 }
 
-.cantactComponentNavnar{
+.HomeCantactNavnar{
   background-image: url('../../public/Rectangle9614@2x.png');
   width: 1300px;
   height: 120px;
   border-radius: 8px;
+}
+
+.homeContactNavbarBotton{
+  width: 228px;
+height: 58px;
+border-radius: 360px;
+border: 2px;
+background: linear-gradient(0deg, #4A2DDF, #4A2DDF);
+border: 2px solid #FFFFFF;
+
+}
+
+.homeContactNavbarBottonText{
+  font-family: Kalameh;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 51px;
+  letter-spacing: 0em;
+  text-align: right;
+  color: #FFFFFF;
+}
+
+.homeContentNavbarText{
+  font-family: Kalameh;
+font-size: 40px;
+font-weight: 600;
+line-height: 68px;
+letter-spacing: 0em;
+text-align: right;
+color: #FFFFFF;
+
+}
+
+.personImagesClass{
+  width: 70px;
+  height: 70px;
+  position: relative;
+  background-repeat: no-repeat;
+}
+
+
+#personImage11{
+  right: 18px;
+  z-index: 5;
+}
+
+#personImage22{
+  right: 33px;
+  z-index: 4;
+}
+
+#personImage33{
+  right: 48px;
+  z-index: 3;
+}
+
+#personImage44{
+  right: 63px;
+  z-index: 2;
+}
+
+#personImage55{
+  right: 78px;
+  z-index:1;
 }

@@ -2,6 +2,7 @@
 import Header from '@/components/Home/header'
 import Samples from '@/components/Home/samples'
 import Services from '@/components/Home/services'
+import { ContactWithUs } from '@/components/Home/contactWithCounsllor'
 
 export default function HomePage() {
 
@@ -11,6 +12,7 @@ export default function HomePage() {
                 <Header/>
                 <Samples/>
                 <Services/>
+                <ContactWithUs/>
             </div>
         </>
         

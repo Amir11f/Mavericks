@@ -335,6 +335,11 @@ letter-spacing: 0em;
 text-align: center;
 color: #FFFFFF;
 margin-top: 1rem;
+}
 
-
+.cantactComponentNavnar{
+  background-image: url('../../public/Rectangle9614@2x.png');
+  width: 1300px;
+  height: 120px;
+  border-radius: 8px;
 }

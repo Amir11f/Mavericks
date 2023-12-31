@@ -279,3 +279,22 @@ color: #494B57;
   color: #FFFFFF;
 
 }
+
+.verifyPicture{
+  background-image: url('../../public//verify.png');
+  width: 24px;
+  height: 24px;
+  margin-right: 24px;
+  margin-left: 5px;
+}
+
+.rectangleOptions{
+  font-family: Kalameh(FaNum);
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 27px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #FFFFFF;
+
+}

@@ -20,7 +20,32 @@ export default function Services(){
                         <div className="rectangleTitle">
                             پزشکی و شرکتی
                         </div>
-                        <div></div>
+                        <div className="flex flex-col self-end gap-[18px]">
+                            <div className="flex flex-row justify-end">
+                                <p className="rectangleOptions">شخصی سازی سطح 3</p>
+                                <div className="verifyPicture"></div>
+                            </div>
+                            <div className="flex flex-row justify-end">
+                                <p className="rectangleOptions">امنیت سطح 3</p>
+                                <div className="verifyPicture"></div>
+                            </div>
+                            <div className="flex flex-row justify-end">
+                                <p className="rectangleOptions">افزایش سرعت سایت</p>
+                                <div className="verifyPicture"></div>
+                            </div>
+                            <div className="flex flex-row justify-end">
+                                <p className="rectangleOptions">بهینه سازی تصاویر</p>
+                                <div className="verifyPicture"></div>
+                            </div>
+                            <div className="flex flex-row justify-end">
+                                <p className="rectangleOptions">بکاپ گیری خودکار</p>
+                                <div className="verifyPicture"></div>
+                            </div>
+                            <div className="flex flex-row justify-end">
+                                <p className="rectangleOptions">اتصال سایت به کانال تلگرام</p>
+                                <div className="verifyPicture"></div>
+                            </div>
+                        </div>
                         <div></div>
                         <div></div>
                     </div>

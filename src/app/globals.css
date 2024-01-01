@@ -407,3 +407,74 @@ color: #FFFFFF;
   right: 78px;
   z-index:1;
 }
+
+.homeSmallInput{
+  background-color: #FFFFFF;
+border-radius: 4px ;
+  width: 264px;
+  height: 49px;
+}
+
+.homeBigInput{
+  width: 585px;
+  height: 164px;
+  margin-top: 18px;
+  margin-left: 36px;
+  border-radius: 4px;
+  text-align: right;
+}
+
+.homeSmallInput::placeholder {
+  text-align: right;
+  margin-right: 9px;
+  font-family: IRANSansX;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+}
+
+.homeBigInput::placeholder{
+  font-family: IRANSansX;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: right;
+  margin-right: 16px;
+  position: relative;
+  bottom: 3.7rem;
+}
+
+.contactWithUsExplanation{
+  width: 756px;
+  height: 509px;
+  border-radius: 8px;
+  background-color: #834DF0;
+}
+
+.contactWithUsExplanationTitle{
+  font-family: IRANSansX;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 36px;
+  letter-spacing: 0em;
+  text-align: right;
+  color: #FFFFFF;
+  margin-top: 92px;
+  margin-right: 55px;
+}
+
+.contactWithUsExplanationText{
+  font-family: IRANSansX;
+  font-size: 18px;
+  width: 581px;
+  font-weight: 500;
+  line-height: 27px;
+  letter-spacing: 0em;
+  text-align: right;
+  color: #FFFFFF;
+  margin-top: 32px;
+  margin-right: 55px;
+  text-align: right;
+}

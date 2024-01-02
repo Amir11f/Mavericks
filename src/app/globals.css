@@ -665,3 +665,82 @@ text-align: right;
 color: #383A42;
 text-align: right;
 }
+
+.serviceBoxClass{
+  height: 683px;
+width: 317px;
+border-radius: 8px;
+border: 1px;
+color: linear-gradient(0deg, #D3D5DB, #D3D5DB),
+linear-gradient(0deg, #FFFFFF, #FFFFFF);
+border: 1px solid #D3D5DB;
+box-shadow: 0px 0px 8px 0px #00000040;
+}
+
+.serviceBoxTitle{
+  font-family: Kalameh;
+font-size: 24px;
+font-weight: 600;
+line-height: 41px;
+letter-spacing: 0em;
+text-align: right;
+color: #383A42;
+
+}
+
+.serviceBoxText{
+height: 48px;
+  font-family: Kalameh;
+font-size: 20px;
+font-weight: 500;
+line-height: 34px;
+letter-spacing: 0em;
+text-align: right;
+margin-right: 21px;
+
+}
+
+.startWith{
+  width: 317px;
+  position: relative;
+  right: 1px;
+height: 61px;
+border: 1px, 0px, 1px, 0px;
+color: #C9CCD6;
+border: 1px solid #C9CCD6;
+}
+
+.startWithTitle{
+  font-family: Kalameh(FaNum);
+font-size: 24px;
+font-weight: 500;
+line-height: 41px;
+letter-spacing: 0em;
+text-align: right;
+
+font-family: Kalameh;
+font-size: 24px;
+font-weight: 500;
+line-height: 41px;
+letter-spacing: 0em;
+text-align: right;
+color: #3369D6;
+}
+
+.serviceBoxBotton{
+  width: 172px;
+height: 59px;
+border-radius: 8px;
+background: #3574F0;
+
+}
+
+.serviceBoxBottonText{
+  font-family: Kalameh;
+font-size: 18px;
+font-weight: 600;
+line-height: 31px;
+letter-spacing: 0em;
+text-align: center;
+color: #FFFFFF;
+}

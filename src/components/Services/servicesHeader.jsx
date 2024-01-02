@@ -6,6 +6,7 @@ export function ServicesHeader(){
     return(
         <>
             <div className="flex flex-row justify-between">
+            <img src="/polygon7.png" className="absolute mt-[160px] left-0" alt="" />
                 <img src="/Googlesitemap-amico.png" className="h-[352px] w-[352px] relative top-[146px] left-[163px]" alt="" />
                 <div className="flex flex-col mr-[70px]">
                     <p className="servicesHeaderTitle flex self-end">

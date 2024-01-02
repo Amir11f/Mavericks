@@ -6,7 +6,7 @@ export default function Services(){
 
     return(
         <>
-            <div>
+            <div className="flex flex-col h-[90rem]">
                 <ServicesHeader/>
                 <ServiceBoxs/>
             </div>

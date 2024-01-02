@@ -7,6 +7,7 @@ export function ClientsOpinion(){
     return(
         <>  
             <div className="polygonInHomeClientOpinion"></div>
+            <div className="polygonInHomeClientLeft"></div>
             <div className="flex flex-col ">
                 <div className="leftOpinionBox"  >
                     <div className="flex flex-row ">

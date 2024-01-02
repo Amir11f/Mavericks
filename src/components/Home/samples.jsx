@@ -5,7 +5,7 @@ export default function Samples (){
 
     return(
         <>
-            <div className=" w-[100%] h-[50rem]  flex flex-col">
+            <div className=" w-[100%] h-[49rem]  flex flex-col">
                 <div className="flex flex-row w-[100%]  ">
                     <div id="homeSampleBorder"></div>
                     <div>

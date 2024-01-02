@@ -376,6 +376,13 @@ color: #FFFFFF;
 
 }
 
+#blueRectangle{
+  background-image: url('../../public/RectangleBlue.svg');
+  width: 345px;
+  height: 812px;
+  background-repeat: no-repeat;
+}
+
 .personImagesClass{
   width: 70px;
   height: 70px;
@@ -539,12 +546,24 @@ margin-top: 8px;
 
 }
 
-.polygonInHomeClientOpinion{ background-image:url('../../public/Polygon7.png');
+.polygonInHomeClientOpinion{ 
+  background-image:url('../../public/Polygon7.png');
 position: absolute;
 z-index: 10;
 width: 194px;
 height: 194px;
 background-repeat: no-repeat;
 left: 0;
-top: 1200px;
+top: 1160px;
+}
+
+.polygonInHomeClientLeft{
+  background-image:url('../../public/Polygon7.png');
+  position: absolute;
+  z-index: 10;
+  width: 194px;
+  height: 194px;
+  background-repeat: no-repeat;
+  left: 0;
+  top: 2300px;
 }

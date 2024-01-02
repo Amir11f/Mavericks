@@ -7,7 +7,7 @@ export function ContactWithUs(){
     return(
         <>
             <div className="h-[40rem] relative">
-                <div className="HomeCantactNavnar flex flex-row justify-between">
+                <div className="HomeCantactNavnar flex flex-row justify-between ml-[3rem]">
                     <div className="homeContactNavbarBotton flex justify-center self-center ml-[66px]">
                         <p id="fontfamily" className="homeContactNavbarBottonText flex self-center ">
                             مشاوره  
@@ -26,7 +26,7 @@ export function ContactWithUs(){
                         </div>
                     </div>
                 </div>
-                <div className="flex ">
+                <div className="flex ml-[3rem] mt-[47px]">
                     <div className="w-[670px] h-[392px] mt-[9rem] relative bottom-[5rem] z-40 bg-[#3369D6] rounded-[8px] border-[#FFFFFF] border-[2px] border-solid flex flex-col ">
                        <div className="flex flex-row">
                             <div className=" flex flex-col">
@@ -40,7 +40,7 @@ export function ContactWithUs(){
                        </div>
                         <input type="text" placeholder="... توضیحات بیشتر " className="homeBigInput"/>
                     </div>
-                    <div className="contactWithUsExplanation flex flex-col relative right-[6rem] z-10">
+                    <div className="contactWithUsExplanation flex flex-col relative right-[5rem] z-10">
                         <p id="fontfamily" className="contactWithUsExplanationTitle">
                             ارائه مشاوره رایگان در مورد طراحی سایت و هزینه ها   
                         </p>

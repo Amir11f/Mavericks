@@ -3,6 +3,9 @@ export default function HomeHeader() {
     return(
         <>
             <div className="flex flex-row w-[100%] h-[630px] reletive gap-[115px] top-[118px] right-[70px] left-[44px] justify-center">
+            <img src="/polygon7.png" className="absolute rotate-180 mt-[120rem] right-0" alt="" />
+            <img src="/polygon7.png" className="absolute rotate-180 mt-[50rem] right-0" alt="" />
+
                 <div id='polygonInHomeHeader'></div>
                 <div id='homeComponentHeaderPng'></div>
                 <div className='flex flex-col mr-[70px]  mt-[222px]'>

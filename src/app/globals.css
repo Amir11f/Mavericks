@@ -744,3 +744,38 @@ letter-spacing: 0em;
 text-align: center;
 color: #FFFFFF;
 }
+
+.teamHeaderText{
+  font-family: IRANSansX;
+font-size: 24px;
+font-weight: 500;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: right;
+width: 740px;
+color: #494B57;
+}
+
+.teamHeaderTitle{
+  font-family: IRANSansX;
+font-size: 32px;
+font-weight: 500;
+line-height: 48px;
+letter-spacing: 0em;
+text-align: right;
+color:  #494B57;
+
+}
+
+
+
+.applicationFormBody{
+  width: 1120px;
+height: 705px;
+top: 247px;
+left: 160px;
+border-radius: 12px;
+background: linear-gradient(245.75deg, #611DF1 -5%, #4DA1F0 103.72%);
+
+
+}

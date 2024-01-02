@@ -8,7 +8,7 @@ import { ClientsOpinion } from '@/components/Home/clientsOpinion'
 export default function HomePage() {
 
     return(
-            <div className='flex flex-col'>
+            <div className='flex flex-col overflow-hidden'>
                 <Header/>
                 <Samples/>
                 <Services/>

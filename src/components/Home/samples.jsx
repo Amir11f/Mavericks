@@ -9,19 +9,19 @@ export default function Samples (){
                 <div className="flex flex-row w-[100%]  ">
                     <div id="homeSampleBorder"></div>
                     <div>
-                        <p className="" id="homeSampleText">نمونه کارها</p>
+                        <p className="fontfamily" id="homeSampleText">نمونه کارها</p>
                     </div>
                 </div>
                 <div className="flex flex-row w-[100%] itme-center justify-center">
                     <div className="homeDetailBox flex flex-col item-center">
                         <div className="homeDetailBoxPicture flex self-center"></div>
                         <div className=" w-[100%] flex flex-row w-[100%] justify-end mr-[11px]">
-                            <p className="homeDetailBoxTitleText text-right mr-[5px]">ساخت ربات تلگرامی</p>
-                            <p className=" homeDetailBoxTitleText text-right mr-[11px]">: پروژه</p>
+                            <p id="fontfamily" className="homeDetailBoxTitleText text-right mr-[5px]">ساخت ربات تلگرامی</p>
+                            <p id="fontfamily" className=" homeDetailBoxTitleText text-right mr-[11px]">: پروژه</p>
                         </div>
-                        <p className=" homeDetailBoxTitleText text-right mr-[11px]">: توضیحات </p>
-                        <p className="homeDetailBoxTitleDescription mt-[10px] mr-[11px] ml-[11px]">. این ربات ها قادر به انجام هرگونه عملیاتی در این فضا از قبیل آموزش،‌ بازی، جستجو، پخش،‌ اتصال، ادغام با سایر سرویس‌ها، محدودیت ارسال پیام در گروه…هستند</p>
-                        <p className="homeDetailBoxTitleText text-right mr-[11px] ">: توسعه دهندگان </p>
+                        <p id="fontfamily" className=" homeDetailBoxTitleText text-right mr-[11px]">: توضیحات </p>
+                        <p id="fontfamily" className="homeDetailBoxTitleDescription mt-[10px] mr-[11px] ml-[11px]">. این ربات ها قادر به انجام هرگونه عملیاتی در این فضا از قبیل آموزش،‌ بازی، جستجو، پخش،‌ اتصال، ادغام با سایر سرویس‌ها، محدودیت ارسال پیام در گروه…هستند</p>
+                        <p id="fontfamily" className="homeDetailBoxTitleText text-right mr-[11px] ">: توسعه دهندگان </p>
                         <div className='flex flex-row relative left-[2.4rem] '>
                             <div className='personImages' id='personImage1'></div>
                             <div className='personImages' id='personImage2'></div>

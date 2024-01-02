@@ -3,9 +3,8 @@
 @tailwind utilities;
 
 @font-face {
-  font-family: "Light";   /*Can be any text*/
-  src: local("IRANSansXLight"),
-    url("../fonts/IRANSansXLight.ttf") format("truetype");
+  font-family: "IRANSansX";   /*Can be any text*/
+  src: url("../fonts/IRANSansXLight.ttf") format("truetype");
 }
 
 
@@ -13,7 +12,7 @@
 
 body {
   background-color:  #FFFFFF ;
-  font-family:light ;
+  font-family: IRANSansX;
   text-align: right;
 
 }
@@ -230,6 +229,7 @@ color: rgba(255, 255, 255, 1);
 #homeServiceBorder{
   background-image: url('../../public/LineLower.png');
   width: 931px;
+  position: relative;
   height: 1rem;
   background-repeat: no-repeat;
   margin-top: 1.5rem;
@@ -239,15 +239,16 @@ color: rgba(255, 255, 255, 1);
 
 #homeServiceText{
   font-family: IRANSansX;
-  font-size: 32px;
-  font-weight: 600;
+  font-size: 30px;
+  font-weight: 500;
   line-height: 48px;
   letter-spacing: 0em;
   text-align: right;
-  width: auto;
+  width: 351px;
   height: 48px;
   top: 650px;
   margin-right: 70px;
+line-height: 32px;
 }
 
 .servicesText{
@@ -494,4 +495,46 @@ border-radius: 4px ;
   width: 560px;
   height: 222px;
   background-image: url('../../public/opinionBlueRectangle.png');
+}
+
+.clientOpinionPicture{
+  width: 38px;
+  height: 38px;
+}
+
+.clientOpinionName{
+  font-family: Ahang;
+font-size: 18px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: center;
+color: #000000;
+
+}
+
+.stars{
+  width: 14px;
+  height: 14px;
+}
+
+.clientBoxExplanation{
+  font-family: Kalameh;
+font-size: 10px;
+font-weight: 500;
+line-height: 17px;
+letter-spacing: 0em;
+text-align: right;
+margin-right: 8px;
+margin-left: 30px;
+margin-top: 8px;
+}
+
+#fontfamily{
+  font-family: IRANSansX;
+}
+
+.fontfamily{
+  font-family: IRANSansX;
+
 }

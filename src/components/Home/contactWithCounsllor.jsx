@@ -9,11 +9,11 @@ export function ContactWithUs(){
             <div className="h-[40rem] relative">
                 <div className="HomeCantactNavnar flex flex-row justify-between">
                     <div className="homeContactNavbarBotton flex justify-center self-center ml-[66px]">
-                        <p className="homeContactNavbarBottonText flex self-center ">
+                        <p id="fontfamily" className="homeContactNavbarBottonText flex self-center ">
                             مشاوره  
                         </p>
                     </div>
-                    <p className="homeContentNavbarText flex self-center ml-[2rem]">
+                    <p id="fontfamily" className="homeContentNavbarText flex self-center ml-[2rem]">
                         ارتباط با کارشناسان ومشاوره رایگان  
                     </p>
                     <div className="flex item-end justify-end mr-[1rem]">
@@ -41,10 +41,10 @@ export function ContactWithUs(){
                         <input type="text" placeholder="... توضیحات بیشتر " className="homeBigInput"/>
                     </div>
                     <div className="contactWithUsExplanation flex flex-col relative right-[6rem] z-10">
-                        <p className="contactWithUsExplanationTitle">
+                        <p id="fontfamily" className="contactWithUsExplanationTitle">
                             ارائه مشاوره رایگان در مورد طراحی سایت و هزینه ها   
                         </p>
-                        <p className="contactWithUsExplanationText text-right self-end" >
+                        <p id="fontfamily" className="contactWithUsExplanationText text-right self-end" >
                             . پیش از آنکه مراحل طراحی سایت آغاز شود ابتدا یک مشاوره کاملا رایگان در مورد راه اندازی سایت ارائه خواهد شد. تمامی جزئیات کار برای کارفرما توضیح داده میشود. آگاهی شما از پروسه طراحی سایت شرایطی را فراهم میکند تا بهتر بتوانید تصمیم گیری کنید. از آنجاییکه فعالیت در قالب یک وب سایت نیازمند تخصص و تجربه لازم می باشد بهتر است در ارتباط با سرمایه گذاری در این حوزه اطلاعات کافی دریافت کنید. پله های صعود را بشناسید و با موانع نیز آشنا شوید. به جهت آنکه تعرفه ها و قیمت طراحی سایت  برای همه کارفرمایان از درجه اهمیت بالایی برخوردار است به طور کامل در مورد نحوه پرداخت هزینه ها، چگونگی قیمت گذاری یا هزینه ساختن سایت توضیحات کافی داده میشود  
                         </p>
                     </div>

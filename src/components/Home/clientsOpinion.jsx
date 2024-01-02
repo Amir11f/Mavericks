@@ -58,7 +58,22 @@ export function ClientsOpinion(){
                     </div>
                     <img src="/PolygonLeft.png" alt="" className="Polygons2" />
                 </div>
-                <div className="rightOpinionBox flex self-end -top-[13.2rem]" ></div>
+                <div className="rightOpinionBox flex flex-col self-end -top-[13.2rem]" >
+                    <div className="flex flex-row">
+                        <p className="opinionsClass ml-[19rem] mt-[2.2rem]">نظرات مشتریان ما</p>
+                        <img src="/users2.png" className="w-[37px] h-[32px] ml-[.7rem]  mt-[2.2rem] " alt="" />
+                    </div>
+                    <div className="flex flex-col">
+                        <div className="flex flex-row">
+                            <img src="/calling.png" className="w-[24px] h-[24px] relative left-[9.7rem] top-[1.8rem]" alt="" />
+                            <p className="phoneNumbers ml-[10rem] mt-[1.5rem]">۰۲۱۶۶۱۳۶۹۴۶ - ۰۲۱۶۶۱۳۶۹۸۰ ۰۲۱۶۶۱۳۶۹۴۶ - ۰۲۱۶۶۳۰۷۷۶۹</p>
+                        </div>
+                        <div>
+                            <img src="/sms.png" className="w-[24px] h-[24px] ml-[9.7rem] mt-[1rem]"  alt="" />
+                            <p className="smsInfo">info@.com</p>
+                        </div>
+                    </div>
+                </div>
             </div>
         </>
     )

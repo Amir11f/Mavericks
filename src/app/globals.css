@@ -482,15 +482,15 @@ border-radius: 4px ;
 .leftOpinionBox{
   z-index: 100;
   position: relative;
-  width: 1001px;
+  width: 968px;
   height: 202px;
-  background-image: url('../../public/opinionWhiteRectangle.png');
+  /* background-image: url('../../public/opinionWhiteRectangle.png'); */
 }
 
 .rightOpinionBox{
-  z-index: 10;
+  z-index: 1000;
   position: relative;
-  width: 580px;
-  height: 202px;
-  background-image: url('../../public/opinionBlueRectangle.png');
+  width: 560px;
+  height: 222px;
+  /* background-image: url('../../public/opinionBlueRectangle.png'); */
 }

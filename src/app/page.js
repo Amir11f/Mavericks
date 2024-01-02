@@ -8,16 +8,13 @@ import { ClientsOpinion } from '@/components/Home/clientsOpinion'
 export default function HomePage() {
 
     return(
-        <>
             <div className='flex flex-col'>
                 <Header/>
                 <Samples/>
                 <Services/>
                 <ContactWithUs/>
                 <ClientsOpinion/>
-            </div>
-        </>
-        
+            </div> 
     )
  
 }

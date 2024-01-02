@@ -631,3 +631,37 @@ right: 2.8rem;
 bottom: 1.3rem;
 
 }
+
+
+
+
+/* services page */
+
+.servicesHeaderTitle{
+  position: relative;
+  width: 270px;
+  height: 48px;
+font-family: IRANSansX;
+font-size: 32px;
+font-weight: 600;
+line-height: 48px;
+letter-spacing: 0em;
+text-align: right;
+color: #383A42;
+top: 225px;
+text-align: right;
+}
+
+.servicesHeaderText{
+  width: 757px;
+height: 180px;
+margin-top: 240px;
+font-family: IRANSansX;
+font-size: 24px;
+font-weight: 500;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: right;
+color: #383A42;
+text-align: right;
+}

@@ -779,3 +779,98 @@ background: linear-gradient(245.75deg, #611DF1 -5%, #4DA1F0 103.72%);
 
 
 }
+
+.applicationformText{
+  font-family: IRANSansX;
+font-size: 32px;
+font-weight: 600;
+line-height: 48px;
+letter-spacing: 0em;
+text-align: right;
+color: #383A42;
+
+}
+
+.applicationFormBodyText{
+  font-family: IRANSansX;
+font-size: 24px;
+font-weight: 500;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: right;
+color: #FFFFFF;
+
+}
+
+.applicationformBodyInput{
+  width: 310px;
+height: 61px;
+border-radius: 8px;
+background: #FFFFFF;
+}
+
+.applicationformBodyInput::placeholder{
+  font-family: IRANSansX;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: right;
+  color: #C9CCD6;
+  text-align: right;
+  margin-right: 13px;
+  
+}
+
+.applicationInputLabel{
+  font-family: IRANSansX;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: right;
+color: #FFFFFF;
+margin-bottom: 6px;
+margin-right: 7px;
+}
+
+.applicationFormBigInput{
+  width: 968px;
+height: 270px;
+border-radius: 8px;
+}
+
+.applicationFormBigInput::placeholder{
+  font-family: IRANSansX;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: right;
+  color: #C9CCD6;
+  text-align: right;
+  margin-right: 13px;
+  position: relative;
+  bottom: 7rem;
+}
+
+.applicationFormBotton{
+  width: 346px;
+height: 50px;
+border-radius: 8px;
+border: 2px;
+background: linear-gradient(0deg, #315FBD, #315FBD),
+linear-gradient(0deg, #FFFFFF, #FFFFFF);
+border: 2px solid #FFFFFF
+}
+
+.applicationFormBottonText{
+  font-family: IRANSansX;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: right;
+color: #FFFFFF;
+
+}

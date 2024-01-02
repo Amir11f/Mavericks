@@ -488,7 +488,6 @@ border-radius: 4px ;
 }
 
 .leftOpinionBox{
-  z-index: 100;
   position: relative;
   width: 992px;
   right: 20px;
@@ -566,4 +565,32 @@ top: 1160px;
   background-repeat: no-repeat;
   left: 0;
   top: 2300px;
+}
+
+.Polygons{
+  width: 30px;
+  height: 30px;
+  position: relative;
+  left: 53.5rem;
+  top: 5.2rem;
+  z-index: 100;
+}
+
+.Polygons2{
+  width: 30px;
+  height: 30px;
+  position: relative;
+  right: 44rem;
+  top: 5.2rem;
+  z-index: 1000;
+}
+
+.group1{
+  width: 85.11px;
+  height: 100.15px;
+  z-index:1000 ;
+}
+
+.clientOpinionBox{
+  z-index: 1000;
 }

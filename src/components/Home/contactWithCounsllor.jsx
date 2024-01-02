@@ -6,7 +6,7 @@ export function ContactWithUs(){
 
     return(
         <>
-            <div className="h-[40rem] relative">
+            <div className="h-[40rem] relative ">
                 <div className="HomeCantactNavnar flex flex-row justify-between ml-[3rem]">
                     <div className="homeContactNavbarBotton flex justify-center self-center ml-[66px]">
                         <p id="fontfamily" className="homeContactNavbarBottonText flex self-center ">
@@ -26,7 +26,7 @@ export function ContactWithUs(){
                         </div>
                     </div>
                 </div>
-                <div className="flex ml-[3rem] mt-[47px]">
+                <div className="flex mt-[47px] relative left-[2rem]">
                     <div className="w-[670px] h-[392px] mt-[9rem] relative bottom-[5rem] z-40 bg-[#3369D6] rounded-[8px] border-[#FFFFFF] border-[2px] border-solid flex flex-col ">
                        <div className="flex flex-row">
                             <div className=" flex flex-col">

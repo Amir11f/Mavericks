@@ -8,7 +8,7 @@ export function ClientsOpinion(){
         <>  
             <div className="polygonInHomeClientOpinion"></div>
             <div className="polygonInHomeClientLeft"></div>
-            <div className="flex flex-col ">
+            <div className="flex flex-col mt-[5rem] ">
                 <div className="leftOpinionBox"  >
                     <div className="flex flex-row ">
                         <div className="clientOpinionBox w-[286px] h-[114px] bg-[#FFFFFF] ml-[149px] mt-[42px] rounded-[5px]">

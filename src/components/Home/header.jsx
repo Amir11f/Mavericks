@@ -3,7 +3,7 @@ export default function HomeHeader() {
     return(
         <>
             <div className="flex flex-row w-[100%] h-[630px] reletive gap-[115px] top-[118px] right-[70px] left-[44px] justify-center">
-                <div id='polygonInHomeHeader top-[196px]'></div>
+                <div id='polygonInHomeHeader'></div>
                 <div id='homeComponentHeaderPng'></div>
                 <div className='flex flex-col mr-[70px]  mt-[222px]'>
                     <p id="fontfamily" className=' text-[#3574F0] font-IRANSansX font-[600] text-[28px] text-right -[42px] w-[699px] h-[84px] flex self-end'>
